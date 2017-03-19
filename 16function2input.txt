@@ -1,0 +1,7 @@
+function takeOrder(crustType,topping)
+ {
+   console.log('order: ' + crustType + ' pizza topped '  + topping + '.' );
+ }
+takeOrder('thin crust','with bacon');
+takeOrder('thick crust','with fish');
+takeOrder('moderate crust','with creame');

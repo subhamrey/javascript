@@ -1,0 +1,3 @@
+var bucketList=['subham','surojit','tuhin'];
+bucketList.pop();
+console.log(bucketList);

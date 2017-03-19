@@ -1,0 +1,22 @@
+function main() {
+  $('.skillset').hide();
+  $('.skillset').fadeIn(1000);
+  
+  $('.class').hide();
+  
+  $('.class').on('click', function() {
+
+	});
+}
+
+$(document).ready(main);
+
+
+
+$('.example-class').on('click', function() {
+  // execute the code here when .example-class is clicked.
+});
+
+
+
+it is used to hide the list of project

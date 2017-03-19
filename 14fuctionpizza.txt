@@ -1,0 +1,15 @@
+var pizzaOrder=true; 
+function takeOrder()
+  {
+    if(pizzaOrder)
+      {
+        console.log('order:pizza');
+        pizzaOrder=false;
+      }
+    else
+      {
+        console.log('don\'t order:pizza');
+        pizzaOrder=true;
+      }
+  }
+takeOrder();

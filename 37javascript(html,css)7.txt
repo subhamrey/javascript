@@ -1,0 +1,11 @@
+function main()
+ {
+   $('.my-selector').hide();
+   $('.example-class').fadeIn(1000);
+ }
+$(document).ready(main);
+
+
+
+1st it would hide and then fadein for a time mentioned in milisecond mentioned between
+the parenthesis.

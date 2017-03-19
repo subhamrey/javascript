@@ -1,0 +1,36 @@
+function main()
+ {
+   
+ }
+$(document).ready(main);
+
+
+
+
+
+
+
+ If we were to select a lot of elements this way, our code would get dense and difficult to read.
+
+Wouldn't it be nice if there was a simpler way to select DOM elements? As you might have guessed, there is!
+
+To better interact with DOM elements, we can use a library. A library is a set of code that contains useful pre-written functions that help with certain tasks.
+
+A great library for interacting with the DOM is jQuery.
+
+jQuery is a library written in JavaScript. The syntax and functions it contains will help us interact with DOM efficiently. We'll walk through a few examples in the following exercises.
+
+In order to use jQuery, we need to:
+
+Include jQuery in our project. jQuery is a library, which means it is a set of code in a file, therefore we will need to link that file in our HTML in order to access it.
+
+Once we link it in our HTML file, we can use its functions and syntax in our js/main.js file.
+Once linked, we'll need to make sure our HTML is loaded before we run our jQuery and JavaScript code.
+
+This will prevent our jQuery and JavaScript code from running before the elements they select are rendered.
+1st we have to link it to index.html
+<script src='https://code.jquery.com/jquery-3.1.0.min.js'></script>
+
+
+
+

@@ -1,0 +1,2 @@
+var bucketList='hello world';
+console.log(bucketList.length);

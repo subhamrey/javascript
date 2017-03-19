@@ -1,0 +1,3 @@
+var laundryRoom='Basement';
+var mailRoom='Room 1A';
+console.log('laundry: ' +laundryRoom+ ',mail: ' +mailRoom+ '.');

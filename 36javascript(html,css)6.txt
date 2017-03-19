@@ -1,0 +1,10 @@
+function main()
+ {
+   $('.my-selector').hide();
+ }
+$(document).ready(main);
+
+
+
+
+this is used to hide the page

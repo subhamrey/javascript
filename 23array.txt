@@ -1,0 +1,3 @@
+var bucketList=['surojit','atanu','anik'];
+var listItem=bucketList[3];
+console.log(listItem);

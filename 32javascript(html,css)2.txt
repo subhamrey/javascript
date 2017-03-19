@@ -1,0 +1,8 @@
+var skillset = document.getElementsByClassName('skillset');
+
+alert(skillset);
+
+
+
+
+how to select html element???

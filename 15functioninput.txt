@@ -1,0 +1,5 @@
+function takeOrder(topping)
+ {
+   console.log('order:pizza topped ' + topping + '.' );
+ }
+takeOrder('with bacon');

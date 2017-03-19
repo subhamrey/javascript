@@ -1,0 +1,3 @@
+alert('hello javascript');
+
+link to html file by->  <script src='js/main.js'></script>

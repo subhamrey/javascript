@@ -1,0 +1,10 @@
+With plain JavaScript we selected an HTML element with this code:
+
+document.getElementsByClassName('skillset');
+
+
+With jQuery we can select the same element with:
+
+$('.skillset');
+We can wrap any CSS selector, like class, id, or tag, with $('.example-class') to select it with jQuery.
+The selectors jQuery uses are the exact same as CSS selectors. For instance, if there's an element with a class of supporting-text, you could select it with $('.supporting-text'). Another example, if an element had an id of 'header', you could select it with $('#header').
